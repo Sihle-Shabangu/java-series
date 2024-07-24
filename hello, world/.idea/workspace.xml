@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b9c84a-1913-412d-a068-9115f7b6e764" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CMYKtoRGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMYKtoRGB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GreatCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/GreatCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloGoodbye.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloGoodbye.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGoodbye.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangle$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/.idea/Lecture 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/HelloGoodbye.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture 1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

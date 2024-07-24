@@ -7,6 +7,6 @@ public class RightTriangle {
             boolean positive = a > 0 && b > 0 && c > 0;
             boolean expression = a * a + b * b == c * c;
 
-            System.out.println( positive == expression && positive != false);
+            System.out.println(positive == expression && !positive);
     }
 }

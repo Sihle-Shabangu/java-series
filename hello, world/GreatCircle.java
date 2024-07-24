@@ -17,7 +17,7 @@ public class GreatCircle {
         double yBracket = y2 - y1;
 
         // calculate the math things
-        double distance = r * 2 * Math.asin(Math.sqrt(Math.pow(Math.sin(xBracket / 2),2) + Math.cos(x1) * Math.cos(x2) * Math.pow(Math.sin(yBracket / 2),2)));
+        double distance = r * 2 * Math.asin(Math.sqrt(Math.pow(Math.sin(xBracket / 2), 2) + Math.cos(x1) * Math.cos(x2) * Math.pow(Math.sin(yBracket / 2), 2)));
 
         System.out.println(distance + " kilometers");
     }
